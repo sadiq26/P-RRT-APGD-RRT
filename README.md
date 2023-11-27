@@ -1,7 +1,7 @@
 # P-RRT-APGD-RRT
 Potential RRT Algorithm [1]
 
-Python implementation of P-RRT Algoriithm
+Python implementation of P-RRT Algoriithm for robotic path planning
 
 
 https://github.com/sadiq26/P-RRT-APGD-RRT/assets/83401594/cbc704d2-a00b-49d4-890f-e40f6a1a32ae
